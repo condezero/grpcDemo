@@ -1,5 +1,5 @@
 ﻿using Grpc.Net.Client;
-using GrpcGreeter;
+using Helloworld;
 using System;
 using System.Threading.Tasks;
 

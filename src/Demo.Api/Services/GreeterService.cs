@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 using Grpc.Core;
-using GrpcGreeter;
+using Helloworld;
 using Microsoft.Extensions.Logging;
 
 namespace Demo.Api
